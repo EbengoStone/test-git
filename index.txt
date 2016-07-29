@@ -3,4 +3,8 @@ gfffff
 CORRECTION DU BUG
 LIEN VERS LE PANIER
 
-AUTRE CORRECTION DE BUG
+nom du stash  = stash@{0}
+
+on peut créer de tag
+
+fichier git .ignore
